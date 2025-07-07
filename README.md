@@ -1,5 +1,7 @@
 # Covid-19 Data Ingestion and Transformation Pipeline
 This end-to-end project leverages Azure Data Factory to efficiently orchestrate the collection, transformation, analysis, and visualization of COVID-19 data, enabling predictive analytics and real-time reporting through a fully integrated Azure-based solution.
+![Covid19 data ingestion Diagram-Icons](https://github.com/user-attachments/assets/527a72bb-76df-421f-b4e6-3eff6c58458c)
+
 
 # Solution Architecture
 The pipeline ingests and processes datasets from ECDC and Eurostat using Azure Data Factory (ADF), stores them in both Azure Data Lake Storage Gen2 and Azure SQL Database, and exposes the results to Power BI for reporting and to Machine Learning (ML) workloads for forecasting and modeling.
